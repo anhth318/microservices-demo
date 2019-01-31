@@ -1,0 +1,14 @@
+com\ewolff\microservice\order\clients\CatalogClient.class
+com\ewolff\microservice\order\clients\Customer.class
+com\ewolff\microservice\order\clients\Item.class
+com\ewolff\microservice\order\clients\CatalogClient$ItemPagedResources.class
+com\ewolff\microservice\order\logic\SpringRestDataConfig$1.class
+com\ewolff\microservice\order\logic\SpringRestDataConfig.class
+com\ewolff\microservice\order\logic\OrderLine.class
+com\ewolff\microservice\order\OrderApp.class
+com\ewolff\microservice\order\logic\OrderController.class
+com\ewolff\microservice\order\logic\OrderService.class
+com\ewolff\microservice\order\logic\OrderRepository.class
+com\ewolff\microservice\order\clients\CustomerClient.class
+com\ewolff\microservice\order\logic\Order.class
+com\ewolff\microservice\order\clients\CustomerClient$CustomerPagedResources.class

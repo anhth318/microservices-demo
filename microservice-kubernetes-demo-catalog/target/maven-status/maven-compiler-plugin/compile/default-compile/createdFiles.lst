@@ -1,0 +1,6 @@
+com\ewolff\microservice\catalog\CatalogApp.class
+com\ewolff\microservice\catalog\Item.class
+com\ewolff\microservice\catalog\ItemRepository.class
+com\ewolff\microservice\catalog\SpringRestDataConfig.class
+com\ewolff\microservice\catalog\SpringRestDataConfig$1.class
+com\ewolff\microservice\catalog\web\CatalogController.class
